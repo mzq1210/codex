@@ -1,0 +1,4 @@
+interface:
+  display_name: "快速收集"
+  short_description: "快速收集想法、链接与问题，保存到第二大脑收集箱"
+  default_prompt: "Use $brain-capture to save this information into the Technical Brain inbox."

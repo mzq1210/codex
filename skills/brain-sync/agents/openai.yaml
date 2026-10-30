@@ -1,0 +1,4 @@
+interface:
+  display_name: "记忆同步"
+  short_description: "将跨项目规范和稳定协作偏好从长期记忆同步到第二大脑"
+  default_prompt: "Use $brain-sync to synchronize recent cross-project standards and durable collaboration preferences into the Technical Brain, excluding project-specific rules."

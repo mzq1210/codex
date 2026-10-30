@@ -1,0 +1,4 @@
+interface:
+  display_name: "知识查找"
+  short_description: "搜索第二大脑已有笔记，并汇总与问题相关的结论"
+  default_prompt: "Use $brain-search to search the Technical Brain for this topic."

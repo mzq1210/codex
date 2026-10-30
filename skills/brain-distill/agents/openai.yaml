@@ -1,0 +1,4 @@
+interface:
+  display_name: "知识沉淀"
+  short_description: "将讨论结论和经验整理成可复用的结构化知识笔记"
+  default_prompt: "Use $brain-distill to turn this conclusion into a structured Technical Brain note."

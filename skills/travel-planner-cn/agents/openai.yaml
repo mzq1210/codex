@@ -1,0 +1,6 @@
+interface:
+  display_name: "旅行规划助手"
+  short_description: "规划轻松、可执行且经过核对的旅行行程"
+  default_prompt: "使用 $travel-planner-cn 为我规划一次轻松不赶场的旅行。"
+policy:
+  allow_implicit_invocation: true

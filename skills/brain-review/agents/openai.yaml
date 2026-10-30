@@ -1,0 +1,4 @@
+interface:
+  display_name: "定期复盘"
+  short_description: "按周或按月整理收集箱，检查知识库并生成复盘"
+  default_prompt: "Use $brain-review to organize the Technical Brain and create a periodic review."
